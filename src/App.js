@@ -62,6 +62,7 @@ function App() {
     <Router>
     <Navbar title="TextUtils" btnText={btnText} mode={mode} toggleMode={toggleMode} aboutText="About Us"/>
     <Alert alert={alert}/>
+    <TextForm Heading="Textutils-WordCounter | CharecterCounter | Uppercase to Lowercase | Lowercase to Uppercase"  showalert={showalert} mode={mode} Exampletextarea="Example textarea -007 "/>
     <div className="container">
     <Routes>
       <Route path="/"
