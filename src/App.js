@@ -62,10 +62,10 @@ function App() {
     <Router>
     <Navbar title="TextUtils" btnText={btnText} mode={mode} toggleMode={toggleMode} aboutText="About Us"/>
     <Alert alert={alert}/>
-    <div className="container">
     <TextForm Heading="Textutils-WordCounter | CharecterCounter | Uppercase to Lowercase | Lowercase to Uppercase"  showalert={showalert} mode={mode} Exampletextarea="Example textarea -007 "/>
+    <div className="container">
     <Routes>
-    <Route path="/about" exact element={<About/>}/>
+      <Route path="/about" exact element={<About/>}/>
     </Routes>
     </div>
     </Router>
