@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Text-Modifier/static/css/main.6acdf16e.css",
-    "main.js": "/Text-Modifier/static/js/main.45bfdf4f.js",
-    "static/js/453.02b6ed6f.chunk.js": "/Text-Modifier/static/js/453.02b6ed6f.chunk.js",
+    "main.css": "/Text-Modifier/static/css/main.ae24c6cf.chunk.css",
+    "main.js": "/Text-Modifier/static/js/main.993292ac.chunk.js",
+    "main.js.map": "/Text-Modifier/static/js/main.993292ac.chunk.js.map",
+    "runtime~main.js": "/Text-Modifier/static/js/runtime~main.dcce0002.js",
+    "runtime~main.js.map": "/Text-Modifier/static/js/runtime~main.dcce0002.js.map",
+    "static/js/2.dee8e078.chunk.js": "/Text-Modifier/static/js/2.dee8e078.chunk.js",
+    "static/js/2.dee8e078.chunk.js.map": "/Text-Modifier/static/js/2.dee8e078.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/Text-Modifier/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/Text-Modifier/static/js/3.68d536b4.chunk.js.map",
     "index.html": "/Text-Modifier/index.html",
-    "main.6acdf16e.css.map": "/Text-Modifier/static/css/main.6acdf16e.css.map",
-    "main.45bfdf4f.js.map": "/Text-Modifier/static/js/main.45bfdf4f.js.map",
-    "453.02b6ed6f.chunk.js.map": "/Text-Modifier/static/js/453.02b6ed6f.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.6acdf16e.css",
-    "static/js/main.45bfdf4f.js"
-  ]
+    "precache-manifest.9971c803b254cfd35344d381a83b24ff.js": "/Text-Modifier/precache-manifest.9971c803b254cfd35344d381a83b24ff.js",
+    "service-worker.js": "/Text-Modifier/service-worker.js",
+    "static/css/main.ae24c6cf.chunk.css.map": "/Text-Modifier/static/css/main.ae24c6cf.chunk.css.map"
+  }
 }
