@@ -65,7 +65,7 @@ function App() {
     <div className="container">
     <TextForm Heading="Textutils-WordCounter | CharecterCounter | Uppercase to Lowercase | Lowercase to Uppercase"  showalert={showalert} mode={mode} Exampletextarea="Example textarea -007 "/>
     <Routes>
-    <Route path="/about"element={<About/>}/>
+    <Route path="/about" exact element={<About/>}/>
     </Routes>
     </div>
     </Router>
